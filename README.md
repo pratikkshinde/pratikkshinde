@@ -1,85 +1,54 @@
-# PRATIKRAJ SHINDE
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer+%26+Front-End+Developer;Aspiring+Full+Stack+Developer;Building+Clean+%26+Useful+Digital+Experiences" alt="Typing SVG" />
-</p>
+<!-- Animated Header -->
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/pratikkshinde">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/pratikraj-shinde-a398b7309">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://pratikraj-shinde.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:6A00F4,100:00D4FF&height=200&section=header&text=PRATIKRAJ%20SHINDE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Designer%20%7C%20Creator&descSize=16&descAlignY=58"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer+%26+Front-End+Developer;Full+Stack+Developer+in+Progress;Building+Creative+Digital+Experiences;Always+Learning+Something+New!" />
+
+</div>
 
 ---
 
-### ABOUT ME
+## 👨‍💻 About Me
 
-I'm an Electronics & Communication Engineering undergraduate interested in building modern, user-friendly web applications.
-
-- Interested in Full Stack Web Development.
-- Learning and building with Python, Java and JavaScript.
-- Focused on clean UI, practical solutions and continuous learning.
-- Enjoy turning ideas into functional digital experiences.
+- I'm **Pratikraj Shinde**, an aspiring Software Developer.
+- Interested in UI/UX Design and Front-End Development.
+- Exploring Python, Java and Full Stack Development.
+- I enjoy building creative and user-friendly applications.
 
 ---
 
-### TECH STACK
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,django,git,github,vscode,figma&theme=dark" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,django,git,github,vscode,figma&perline=5" />
 
-### FEATURED PROJECTS
-
-| Project | Description | Tech |
-|:---|:---|:---|
-| [Flexr](https://github.com/pratikkshinde/Flexr---Social-Media-Feed-Application) | Social media feed application with interactive features. | Python, Django |
-| [AfterGlow](https://github.com/pratikkshinde/AfterGlow-Responsive-Photo-Gallery) | Responsive photo gallery with a cinematic viewing experience. | HTML, CSS, JavaScript |
-| [Personal Portfolio](https://github.com/pratikkshinde/Pratikraj-Shinde) | Personal portfolio showcasing my skills and projects. | Web Technologies |
-| [Contact-Card](https://github.com/pratikkshinde/Contact-Card) | Simple and clean digital contact card. | HTML, CSS, JavaScript |
-| [Like-Cards](https://github.com/pratikkshinde/Like-Cards) | Interactive cards with like functionality. | HTML, CSS, JavaScript |
+</div>
 
 ---
 
-### GITHUB STATISTICS
+## 🌐 Connect With Me
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pratikkshinde&show_icons=true&hide_border=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikkshinde&layout=compact&hide_border=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&bg_color=00000000" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pratikkshinde&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999" />
-</p>
+<a href="https://linkedin.com/in/pratikraj-shinde-a398b7309">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/pratikkshinde">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://instagram.com/pratikkshinde_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
----
+</div>
 
-### CONNECT WITH ME
+<div align="center">
 
-<p align="center">
-  <a href="mailto:pratiksclg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/pratikraj-shinde-a398b7309">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/pratikkshinde_/">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6A00F4,100:090979&height=100&section=footer"/>
 
-<p align="center">
-  <i>Learning. Building. Improving.</i>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=90&section=footer" width="100%" />
-</p>
